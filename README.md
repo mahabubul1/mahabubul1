@@ -4,10 +4,9 @@
 
 ### Building AI Products. Engineering Solid Backends. Shipping for Clients Worldwide.
 
-**AI Engineer · Full-Stack Developer · Founder of [BlackDevs AI](https://github.com/blackdevs-soft)**
+**AI Engineer · Full-Stack Developer**
 
 [![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mahabubulalam952@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BlackDevs_AI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/blackdevsai)
 [![GitHub](https://img.shields.io/badge/GitHub-mahabubul1-181717?style=flat-square&logo=github)](https://github.com/mahabubul1)
 [![Profile Views](https://komarev.com/ghpvc/?username=mahabubul1&style=flat-square&color=ff4802)](https://github.com/mahabubul1)
 
@@ -20,8 +19,8 @@
 I'm a **Full-Stack Developer with 10+ years of experience**, building production software, scalable applications, and digital products.
 
 Since 2016, I've worked across frontend development, WordPress, Laravel backends, API integrations, and SaaS architecture. I've delivered projects for startups, agencies, and businesses across different industries.
-
-I'm the founder of **BlackDevs**, where I focus on software engineering, AI-powered products, and automation solutions.
+ 
+I focus on software engineering, AI-powered products, and automation solutions.
 
 Today, my primary focus is **AI Engineering** — building production-ready RAG systems, AI agents, voice agents, and AI-powered SaaS products on top of reliable backend architectures.
 
@@ -125,8 +124,7 @@ I enjoy building developer tools, reusable packages, and practical resources for
 
 I'm always interested in discussing software architecture, AI engineering, open-source development, and meaningful collaboration.
 
-- 💼 **Company:** [BlackDevs AI](https://www.linkedin.com/company/blackdevsai)
-- 🏢 **GitHub Organization:** [blackdevs-soft](https://github.com/blackdevs-soft)
+- 💼 **LinkedIn:** [Md Alam Miah](https://www.linkedin.com/in/md-alam-miah/)
 - 💻 **GitHub:** [mahabubul1](https://github.com/mahabubul1)
 - ✉️ **Email:** [mahabubulalam952@gmail.com](mailto:mahabubulalam952@gmail.com)
 
