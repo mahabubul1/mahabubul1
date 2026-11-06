@@ -1,104 +1,141 @@
-::: {align="center"}
-# Hi, I'm Mahabubul Alam 👋
+<div align="center">
 
-### Senior Full-Stack Developer \| Laravel & SaaS Engineer \| AI / RAG Developer
+# Mahabubul Alam
 
-I build reliable web applications, scalable backend systems, APIs, and
-AI-powered products.
+### Building AI Products. Engineering Solid Backends. Shipping for Clients Worldwide.
 
-[GitHub](https://github.com/mahabubul1) ·
-[BlackDevs](https://github.com/blackdevs-soft)
-:::
+**AI Engineer · Full-Stack Developer · Founder of [BlackDevs AI](https://github.com/blackdevs-soft)**
 
-------------------------------------------------------------------------
+[![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mahabubulalam952@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BlackDevs_AI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/blackdevsai)
+[![GitHub](https://img.shields.io/badge/GitHub-mahabubul1-181717?style=flat-square&logo=github)](https://github.com/mahabubul1)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahabubul1&style=flat-square&color=ff4802)](https://github.com/mahabubul1)
+
+</div>
+
+---
 
 ## About Me
 
-I'm a full-stack developer with **10+ years of experience** building and
-maintaining web applications. My core strength is backend engineering
-with PHP and Laravel, supported by modern JavaScript frameworks,
-databases, cloud infrastructure, and Python-based AI tooling.
+I'm a **Full-Stack Developer with 10+ years of experience**, building production software, scalable applications, and digital products.
 
-I enjoy turning complex requirements into maintainable software --- from
-SaaS platforms and REST APIs to retrieval-augmented generation (RAG)
-applications.
+Since 2016, I've worked across frontend development, WordPress, Laravel backends, API integrations, and SaaS architecture. I've delivered projects for startups, agencies, and businesses across different industries.
 
--   🚀 Founder and developer at **BlackDevs**
--   🧩 Focused on clean architecture, maintainable code, and practical
-    engineering
--   🤖 Exploring production-ready AI applications, RAG, and agentic
-    workflows
--   ☁️ Experienced with Linux servers, Docker, deployment, and cloud
-    infrastructure
+I'm the founder of **BlackDevs**, where I focus on software engineering, AI-powered products, and automation solutions.
 
-## Technical Expertise
+Today, my primary focus is **AI Engineering** — building production-ready RAG systems, AI agents, voice agents, and AI-powered SaaS products on top of reliable backend architectures.
 
-  Area                  Technologies
-  --------------------- ------------------------------------------------------
-  Backend               PHP, Laravel, Node.js, Express.js, Python, FastAPI
-  Frontend              JavaScript, Vue.js, React
-  Databases             MySQL, PostgreSQL, MongoDB
-  AI & RAG              LangChain, LangGraph, embeddings, vector search, RAG
-  Infrastructure        Docker, Linux, AWS, DigitalOcean, Laravel Forge
-  APIs & Integrations   REST APIs, OAuth, third-party integrations
+- 🔭 Building an **AI Research Assistant** and AI Voice Agent SaaS.
+- 🚀 Developing **PreciseClock**, a multi-tenant workforce management platform.
+- 🤖 Exploring RAG, LangGraph, MCP, AI agents, and workflow automation.
+- 🏗️ Engineering scalable Laravel applications and backend architectures.
+- 🔐 Expanding my knowledge of AI security and application security.
+- 👯 Interested in collaborating on Laravel packages, developer tools, and AI Agent Skills.
+- 💬 Ask me about Laravel, SaaS architecture, RAG, Supabase, and API development.
+- 📫 Email: **mahabubulalam952@gmail.com**
 
-## Featured Projects
+---
 
-A selection of projects and tools from my GitHub:
+## Open Source Projects
 
-  ---------------------------------------------------------------------------------------------------------------------------------
-  Project                                                                           Description             Technology
-  --------------------------------------------------------------------------------- ----------------------- -----------------------
-  [Production RAG Engineer](https://github.com/mahabubul1/production-rag-engineer)  Resources and guidance  Python
-                                                                                    for building            
-                                                                                    production-oriented RAG 
-                                                                                    systems.                
+I enjoy building developer tools, reusable packages, and practical resources for the engineering community.
 
-  [Laravel CRUD & Repository                                                        A Laravel development   PHP
-  Generator](https://github.com/mahabubul1/laravel-crud-and-repository-generator)   tool for generating     
-                                                                                    CRUD and repository     
-                                                                                    patterns.               
+| Project | Description |
+|---|---|
+| [**Production RAG Engineer**](https://github.com/mahabubul1/production-rag-engineer) | An Agent Skill for building production-ready RAG applications. |
+| [**Laravel CRUD & Repository Generator**](https://github.com/mahabubul1/laravel-crud-and-repository-generator) | Generates Laravel CRUD scaffolding using the repository pattern. |
+| [**Laravel Architecture Auditor**](https://github.com/mahabubul1/laravel-architecture-auditor) | Audits Laravel application architecture and code organization. |
+| [**Supabase Laravel**](https://github.com/mahabubul1/supabase-laravel) | Supabase integration for Laravel applications. |
+| [**Laravel WooCommerce**](https://github.com/mahabubul1/laravel-woocommerce) | WooCommerce REST API integration for Laravel. |
 
-  [Laravel Architecture                                                             A project focused on    PHP
-  Auditor](https://github.com/mahabubul1/laravel-architecture-auditor)              reviewing Laravel       
-                                                                                    application             
-                                                                                    architecture.           
+**[Explore all repositories →](https://github.com/mahabubul1?tab=repositories)**
 
-  [Supabase Laravel](https://github.com/mahabubul1/supabase-laravel)                Laravel integration     PHP
-                                                                                    work for Supabase.      
+---
 
-  [Laravel WooCommerce](https://github.com/mahabubul1/laravel-woocommerce)          WooCommerce REST API    PHP
-                                                                                    integration package.    
-  ---------------------------------------------------------------------------------------------------------------------------------
+## Core Competencies
 
-See more in my
-[repositories](https://github.com/mahabubul1?tab=repositories).
+| Domain | Expertise |
+|---|---|
+| **AI Engineering** | RAG Pipelines · AI Agents · Voice Agents · LLM Integration · LangChain · LangGraph · MCP |
+| **Backend Engineering** | PHP · Laravel · Node.js · Python · FastAPI · REST APIs |
+| **Architecture** | Multi-Tenant SaaS · Clean Architecture · Modular Systems · Repository Pattern |
+| **Frontend** | JavaScript · TypeScript · React · Vue.js · Next.js · Tailwind CSS |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Supabase · Database Design |
+| **DevOps** | Docker · Nginx · AWS · DigitalOcean · Cloudflare · Linux · CI/CD |
+| **Integrations** | Payment Gateways · WooCommerce · Shopify · GoHighLevel · Third-Party APIs |
 
-## Current Focus
+---
 
--   Building production-ready RAG applications with Python, LangChain,
-    and LangGraph
--   Exploring AI agents, MCP servers, and workflow automation
--   Designing scalable SaaS architectures with Laravel
--   Improving application reliability, performance, and developer
-    experience
+## Technology Stack
+
+<div align="center">
+
+**Backend & Programming**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI & Automation**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Database & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
 
 ## GitHub Activity
 
-::: {align="center"}
-`<img src="https://github-readme-stats.vercel.app/api?username=mahabubul1&show_icons=true&hide_border=true" alt="Mahabubul Alam's GitHub statistics" />`{=html}
+<div align="center">
 
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubul1&layout=compact&hide_border=true" alt="Most used programming languages" />`{=html}
-:::
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahabubul1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubul1&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+---
 
 ## Let's Connect
 
--   GitHub: [@mahabubul1](https://github.com/mahabubul1)
--   Organization: [BlackDevs](https://github.com/blackdevs-soft)
+I'm always interested in discussing software architecture, AI engineering, open-source development, and meaningful collaboration.
 
-------------------------------------------------------------------------
+- 💼 **Company:** [BlackDevs AI](https://www.linkedin.com/company/blackdevsai)
+- 🏢 **GitHub Organization:** [blackdevs-soft](https://github.com/blackdevs-soft)
+- 💻 **GitHub:** [mahabubul1](https://github.com/mahabubul1)
+- ✉️ **Email:** [mahabubulalam952@gmail.com](mailto:mahabubulalam952@gmail.com)
 
-::: {align="center"}
-*Building useful software, learning continuously, and sharing what I
-learn.*
-:::
+---
+
+<div align="center">
+
+**Clear architecture over clever code.**
+
+*Build it. Ship it. Improve it.*
+
+</div>
