@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mahabubul Alam
+# Alam Miah
 
 ### Building AI Products. Engineering Solid Backends. Shipping for Clients Worldwide.
 
