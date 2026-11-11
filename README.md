@@ -61,7 +61,6 @@ I enjoy building developer tools, reusable packages, and practical resources for
 | **Frontend** | JavaScript · TypeScript · React · Vue.js · Next.js · Tailwind CSS |
 | **Databases** | PostgreSQL · MySQL · MongoDB · Supabase · Database Design |
 | **DevOps** | Docker · Nginx · AWS · DigitalOcean · Cloudflare · Linux · CI/CD |
-| **Integrations** | Payment Gateways · WooCommerce · Shopify · GoHighLevel · Third-Party APIs |
 
 ---
 
