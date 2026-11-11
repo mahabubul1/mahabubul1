@@ -24,14 +24,14 @@ I focus on software engineering, AI-powered products, and automation solutions.
 
 Today, my primary focus is **AI Engineering** — building production-ready RAG systems, AI agents, voice agents, and AI-powered SaaS products on top of reliable backend architectures.
 
-- 🔭 Building an **AI Research Assistant** and AI Voice Agent SaaS.
-- 🚀 Developing **PreciseClock**, a multi-tenant workforce management platform.
-- 🤖 Exploring RAG, LangGraph, MCP, AI agents, and workflow automation.
-- 🏗️ Engineering scalable Laravel applications and backend architectures.
-- 🔐 Expanding my knowledge of AI security and application security.
-- 👯 Interested in collaborating on Laravel packages, developer tools, and AI Agent Skills.
-- 💬 Ask me about Laravel, SaaS architecture, RAG, Supabase, and API development.
-- 📫 Email: **mahabubulalam952@gmail.com**
+- Building an **AI Research Assistant** and AI Voice Agent SaaS.
+- Developing **PreciseClock**, a multi-tenant workforce management platform.
+- Exploring RAG, LangGraph, MCP, AI agents, and workflow automation.
+- Engineering scalable Laravel applications and backend architectures.
+- Expanding my knowledge of AI security and application security.
+- Interested in collaborating on Laravel packages, developer tools, and AI Agent Skills.
+- Ask me about Laravel, SaaS architecture, RAG, Supabase, and API development.
+- Email: **mahabubulalam952@gmail.com**
 
 ---
 
